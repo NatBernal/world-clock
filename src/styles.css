@@ -33,8 +33,24 @@
   padding: 10px;
   margin-bottom: 1em;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h2 {
+  margin: 0;
+}
+
+.city div {
+  display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: left;
+  margin: 1em 10px;
+}
+
+.city .time {
+  font-size: 2em;
 }
 
 hr {
