@@ -13,7 +13,7 @@
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
 }
 
-.search-city {
+#city {
   width: 100%;
   padding: 0.5em;
   border: 1px solid white;
@@ -23,7 +23,7 @@
   color: #282828;
 }
 
-.search-city option {
+#city option {
   color: #282828;
 }
 
